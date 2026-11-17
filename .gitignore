@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 6Degrees local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local secrets
+.env
+.env.*
+.streamlit/secrets.toml
